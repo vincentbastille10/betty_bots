@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Page Betty Bots principale -->
+  <url>
+    <loc>https://spectramedia.online/betty-bots</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Page d’accueil globale Spectra Media (si elle existe) -->
+  <url>
+    <loc>https://spectramedia.online/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Ta vraie page Betty si elle est sur un autre path interne -->
+  <url>
+    <loc>https://spectramedia.online/bettyabov2</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
